@@ -1,5 +1,5 @@
 {
-  "name": "Jumping League Sim \u2014 unofficial prototype inspired by the PJL",
+  "name": "Jumping League Sim — unofficial prototype inspired by the PJL",
   "short_name": "Jumping Sim",
   "start_url": "./",
   "display": "fullscreen",
@@ -29,7 +29,6 @@
       "type": "image/png"
     }
   ],
-  "id": "./",
   "scope": "./",
   "prefer_related_applications": false
 }
